@@ -12,23 +12,23 @@
  - Eigene Scripte:
 	> Ein Großteil der von uns verwendeten Scripte wurde von Grund auf selbst geschrieben, um das **beste Spielerlebnis** zu bieten!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kontaktiere uns:</h3>
 <p align="left">
 <a href="https://twitter.com/acevrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acevrp" height="30" width="40" /></a>
 <a href="https://instagram.com/acevrp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acevrp_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/toxicjellytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxicjellytv" height="30" width="40" /></a>
 <a href="https://discord.acev-rp.de/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
+</p> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programmier- / Skriptensprachen:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69016398/193686234-86b5debe-fb4b-409a-b728-4cffe6e53b57.png" alt="lua" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Unser Partner:</h3>
-<p align="left"> <a href="https://sb-systems.eu/" target="_blank" rel="noreferrer"> <img src="https://sb-systems.eu/assets/style/images/logotest.png" alt="csharp" /> </a>
+<p align="left"> <a href="https://sb-systems.eu/" target="_blank" rel="noreferrer"> <img src="https://sb-systems.eu/assets/style/images/logotest.png" alt="sb-systems" width="25%" height="25%" /> </a>
