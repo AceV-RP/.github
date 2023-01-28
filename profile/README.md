@@ -31,4 +31,4 @@
 </p>
 
 <h3 align="left">Unser Partner:</h3>
-<p align="left"> <a href="https://sb-systems.eu/" target="_blank" rel="noreferrer"> <img src="https://sb-systems.eu/assets/style/images/logotest.png" alt="csharp" width="40" height="40"/> </a>
+<p align="left"> <a href="https://sb-systems.eu/" target="_blank" rel="noreferrer"> <img src="https://sb-systems.eu/assets/style/images/logotest.png" alt="csharp" /> </a>
