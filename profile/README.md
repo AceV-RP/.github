@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acev-rp&label=Profile%20views&color=0e75b6&style=flat" alt="acev-rp" /> </p>
 
-- 🚗 Realistische Fahrzeuge:
+- 🚗 Realistische Fahrzeuge:\n
 Sämtliche unsere Fahrzeuge wurden auf ihre reale Vorlage angepasst. Von Beschleunigung, Bremskraft oder top Speed, alles wurde bedacht.
 
 - 💵 Reale Wirtschaft
@@ -14,7 +14,7 @@ Sämtliche unsere Fahrzeuge wurden auf ihre reale Vorlage angepasst. Von Beschle
 <a href="https://twitter.com/acevrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acevrp" height="30" width="40" /></a>
 <a href="https://instagram.com/acevrp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acevrp_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/toxicjellytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxicjellytv" height="30" width="40" /></a>
-<a href="https://discord.gg/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://discord.acev-rp.de/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
