@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acev-rp&label=Profile%20views&color=0e75b6&style=flat" alt="acev-rp" /> </p>
 
-- 🌱 I’m currently learning **Lua**
+- 🚘 Realistische Fahrzeuge:
+Sämtliche unsere Fahrzeuge wurden auf ihre reale Vorlage angepasst. Von Beschleunigung, Bremskraft oder top Speed, alles wurde bedacht.
 
-- 👯 I’m looking to collaborate on **AceV, ein FiveM RP**
+- 💵 Reale Wirtschaft
+- 👨‍💻 Eigene Scripte
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
