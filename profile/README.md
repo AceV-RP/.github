@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acev-rp&label=Profile%20views&color=0e75b6&style=flat" alt="acev-rp" /> </p>
 
-- 🚗 Realistische Fahrzeuge:\n
-<h5> Sämtliche unsere Fahrzeuge wurden auf ihre reale Vorlage angepasst. Von Beschleunigung, Bremskraft oder top Speed, alles wurde bedacht. </h5> 
+- 🚗 Realistische Fahrzeuge: <h5> Sämtliche unsere Fahrzeuge wurden auf ihre reale Vorlage angepasst. Von Beschleunigung, Bremskraft oder top Speed, alles wurde bedacht. </h5> 
 
-- 💵 Reale Wirtschaft
+- 💵 Reale Wirtschaft:
 - 👨‍💻 Eigene Scripte
 
 <h3 align="left">Connect with me:</h3>
